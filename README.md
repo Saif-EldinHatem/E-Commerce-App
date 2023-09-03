@@ -1,1 +1,1 @@
-# E-Commerce-App
+Flutter project for E-Commerce
